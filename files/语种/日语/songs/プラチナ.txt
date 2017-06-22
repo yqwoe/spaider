@@ -1,0 +1,4 @@
+プラチナ,http://music.163.com/song?id=22752522
+プラチナ,http://music.163.com/song?id=29755052
+プラチナ,http://music.163.com/song?id=4920902
+プラチナ,http://music.163.com/song?id=29755052

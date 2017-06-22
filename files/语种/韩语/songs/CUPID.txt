@@ -1,0 +1,7 @@
+CUPID,http://music.163.com/song?id=32272610
+CUPID,http://music.163.com/song?id=31477746
+CUPID,http://music.163.com/song?id=32272610
+CUPID,http://music.163.com/song?id=32272610
+CUPID,http://music.163.com/song?id=31477746
+CUPID,http://music.163.com/song?id=31477746
+CUPID,http://music.163.com/song?id=32272610

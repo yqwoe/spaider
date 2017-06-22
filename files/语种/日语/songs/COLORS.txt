@@ -1,0 +1,5 @@
+COLORS,http://music.163.com/song?id=725273
+COLORS,http://music.163.com/song?id=471403328
+COLORS,http://music.163.com/song?id=440101624
+COLORS,http://music.163.com/song?id=725273
+COLORS,http://music.163.com/song?id=725273

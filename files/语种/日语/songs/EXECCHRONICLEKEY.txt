@@ -1,0 +1,1 @@
+EXEC CHRONICLE KEY,http://music.163.com/song?id=26377617

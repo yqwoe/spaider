@@ -1,0 +1,2 @@
+EXEC_COSMOFLIPS/.,http://music.163.com/song?id=22701751
+EXEC_COSMOFLIPS/.,http://music.163.com/song?id=4940455

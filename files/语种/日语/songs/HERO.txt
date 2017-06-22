@@ -1,0 +1,3 @@
+HERO,http://music.163.com/song?id=459717320
+HERO,http://music.163.com/song?id=34077898
+HERO,http://music.163.com/song?id=34367780

@@ -1,0 +1,12 @@
+Crush,http://music.163.com/song?id=28283323
+Crush,http://music.163.com/song?id=408532494
+Crush,http://music.163.com/song?id=411907237
+Crush,http://music.163.com/song?id=408532494
+Crush,http://music.163.com/song?id=28283323
+Crush,http://music.163.com/song?id=28283323
+Crush,http://music.163.com/song?id=408532494
+Crush,http://music.163.com/song?id=28283323
+Crush,http://music.163.com/song?id=408532494
+Crush,http://music.163.com/song?id=2780425
+Crush,http://music.163.com/song?id=28283323
+Crush,http://music.163.com/song?id=411907237

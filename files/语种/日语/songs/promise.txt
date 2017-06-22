@@ -1,0 +1,3 @@
+promise,http://music.163.com/song?id=22751896
+promise,http://music.163.com/song?id=22751704
+promise,http://music.163.com/song?id=22839304

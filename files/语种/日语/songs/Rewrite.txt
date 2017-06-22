@@ -1,0 +1,6 @@
+Rewrite,http://music.163.com/song?id=26131679
+Rewrite,http://music.163.com/song?id=759774
+Rewrite,http://music.163.com/song?id=759774
+Rewrite,http://music.163.com/song?id=759774
+Rewrite,http://music.163.com/song?id=759774
+Rewrite,http://music.163.com/song?id=759774
